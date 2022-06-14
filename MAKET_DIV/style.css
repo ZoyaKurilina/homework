@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.navigation {
+    background-color: #d1ca7b;
+    width: 160px;
+    float: left;
+
+}
+
+.content {
+    margin-left: 160px;
+    padding: 16px;
+}
+
+header, footer {  
+    bottom: 0;
+    background-color: #a68fb9;
+    text-align: center;
+    width: 100%;
+}
+
+img {
+    float: left;
+    margin-right: 1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
